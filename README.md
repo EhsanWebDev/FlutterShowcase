@@ -1,6 +1,13 @@
-# flutter_application_1
+# flutter_showcase_app
 
-A new Flutter project.
+A Flutter project to showcase various features and capabilities, such as:
+
+- Google Maps
+- Image Picker
+- Gallery Picker
+- Networking
+- Animations
+- State Management
 
 ## Getting Started
 
